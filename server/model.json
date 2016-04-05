@@ -1,0 +1,24 @@
+{
+  "awsStudentInstances":[
+    {
+      "name": "Diego Duarte",
+      "id": "123",
+      "type": "T2"
+    },
+    {
+      "name": "Orlando Neto",
+      "id": "456",
+      "type": "M4"
+    },
+    {
+      "name": "Ralfi Leonir",
+      "id": "789",
+      "type": "C3"
+    },
+    {
+      "name": "Guilherme Menezes",
+      "id": "999",
+      "type": "R3"
+    }
+  ]
+}
